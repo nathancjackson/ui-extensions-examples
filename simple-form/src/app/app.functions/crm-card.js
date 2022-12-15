@@ -15,7 +15,7 @@ exports.main = async (context, sendResponse) => {
     sections: [
       {
         type: 'text',
-        text: "This example displays a simple form with a text input and a submit button. Inputting data into the field and clicking the submit button shows a banner with the user's input.",
+        text: "testing testing 123",
       },
       {
         type: 'form',
